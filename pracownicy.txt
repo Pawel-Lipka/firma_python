@@ -1,0 +1,6 @@
+imie,nazwisko,stanowsko,dzial,wyplata,doswiadczenie,rodzina_prezesa
+Adam,B,programista,it,10000,4,0
+Beata,M,majster,hr,8000,2,0
+Maciej,D,kierowca,rnd,6500,8,1
+Anna,A,monter,ksiegowosc,11500,2,0
+Maria,C,programista,rnd,7500,2,0
